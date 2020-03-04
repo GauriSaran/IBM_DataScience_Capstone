@@ -19,3 +19,5 @@ City's most populous borough, with an estimated 2,504,700 residents in 2010.
 
 - [DataSet]
 (https://github.com/GauriSaran/IBM_DataScience_Capstone/blob/master/Health_Facility_General_Information%20(2).csv)
+- [Professional Certificate]
+(https://www.coursera.org/account/accomplishments/specialization/certificate/EQBBL89JL8VK)
